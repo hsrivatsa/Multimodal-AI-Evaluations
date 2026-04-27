@@ -200,7 +200,8 @@ Where is your team today?
 | You are... | Start here |
 |---|---|
 | New to multimodal AI evaluation | [`MultiModal AI Evaluations 101`](./guides/Multimodal%20AI%20Product%20Evaluation%20%E2%80%94%20101%20Guide%20-%20Enhanced.pdf) |
-| Building an evaluation program from scratch | [`guides/getting-started-guide.md`](./guides/getting-started-guide.md) → [`T-01`](./templates/T-01-evaluation-brief.md) |
+| Building an evaluation program from scratch | [`Multimodal AI Evaluations Getting Started Guide`](./guides/Multimodal%20AI%20Product%20Evaluation%20-%20Getting%20Started.pdf) |
+| Implementing a full evaluation program | [`Multimodal AI Evaluations Field Manual`](./guides/Multimodal%20AI%20Product%20Evaluation%20-%20The%20Practioner's%20Field%20Manual%20-%20v2.1.pdf) |
 | Looking for a specific template | [`/templates`](./templates) directory |
 | Responding to a production alert right now | [`T-13 Driver Analysis`](./templates/T-13-driver-analysis-template.md) |
 | Making a ship/hold decision | [`T-14 Decision Memo`](./templates/T-14-decision-memo.md) |
@@ -264,10 +265,7 @@ GitHub: https://github.com/hsrivatsa/Multimodal-AI-Evaluations
 ## Author
 
 **Harsha Srivatsa**
-AI Solutions Architect · AI Product Leader
-Founder, Indriya Innovations & NanoKernel
-Creator of the Council of Councils architecture and Agent Genesis framework
-Instructor to students across 90+ countries
+AI Product Builder · AI Solutions Architect · AI Product Leader
 
 [LinkedIn](https://www.linkedin.com/in/hsrivatsa) · [GitHub](https://github.com/hsrivatsa)
 
