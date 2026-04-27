@@ -267,7 +267,7 @@ GitHub: https://github.com/hsrivatsa/Multimodal-AI-Evaluations
 **Harsha Srivatsa**
 AI Product Builder · AI Solutions Architect · AI Product Leader
 
-[LinkedIn](https://www.linkedin.com/in/hsrivatsa) · [GitHub](https://github.com/hsrivatsa)
+[LinkedIn](https://www.linkedin.com/in/harshasrivatsa) · [GitHub](https://github.com/hsrivatsa)
 
 ---
 
