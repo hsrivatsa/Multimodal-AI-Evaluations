@@ -156,7 +156,7 @@ Applying this framework to real multimodal AI products in the wild.
 
 | Product | Category | Report |
 |---|---|---|
-| Huxe | Document-to-audio AI | [View report](./reports/huxe-evaluation/) |
+| Huxe | Document-to-audio AI | Coming Soon |
 | Google NotebookLM | Document-to-audio AI | Coming soon |
 | HeyGen | AI video generation | Coming soon |
 | Synthesia | Enterprise AI video | Coming soon |
@@ -172,10 +172,10 @@ Working implementations of this framework's evaluators on major evaluation platf
 
 | Platform | Best For | Implementation |
 |---|---|---|
-| Braintrust | Dataset versioning, offline evaluation | [View](./implementations/braintrust/) |
-| Arize Phoenix | Embedding drift, production monitoring | [View](./implementations/arize-phoenix/) |
-| Comet Opik | Teams using Comet for ML tracking | [View](./implementations/comet-opik/) |
-| LangSmith | LangChain-native, audio playback in traces | [View](./implementations/langsmith/) |
+| Braintrust | Dataset versioning, offline evaluation | Coming Soon |
+| Arize Phoenix | Embedding drift, production monitoring | Coming Soon |
+| Comet Opik | Teams using Comet for ML tracking | Coming Soon |
+| LangSmith | LangChain-native, audio playback in traces | Coming Soon |
 
 ---
 
@@ -199,7 +199,7 @@ Where is your team today?
 
 | You are... | Start here |
 |---|---|
-| New to multimodal AI evaluation | [`guides/101-guide.md`](./guides/101-guide.md) |
+| New to multimodal AI evaluation | [`MultiModal AI Evaluations 101`](./guides/Multimodal%20AI%20Product%20Evaluation%20%E2%80%94%20101%20Guide%20-%20Enhanced.pdf) |
 | Building an evaluation program from scratch | [`guides/getting-started-guide.md`](./guides/getting-started-guide.md) → [`T-01`](./templates/T-01-evaluation-brief.md) |
 | Looking for a specific template | [`/templates`](./templates) directory |
 | Responding to a production alert right now | [`T-13 Driver Analysis`](./templates/T-13-driver-analysis-template.md) |
