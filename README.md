@@ -33,7 +33,7 @@ This framework teaches you to find failures where they originate, not where they
 
 Multimodal AI products must be evaluated across five separate, independently failing contracts. A single accuracy score hides too much — always evaluate them separately.
 
-| # | Contract | The Core Question |
+|# |Contract |The Core Question |
 |---|---|---|
 | 1 | **Ingestion Fidelity** | Did the pipeline faithfully extract what was in the source? |
 | 2 | **Faithfulness** | Is the output traceable to the sources? |
